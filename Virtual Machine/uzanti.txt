@@ -1,0 +1,4 @@
+create file
+append file e:/design/head.fw.png
+create pdf
+append pdf e:/test.pdf

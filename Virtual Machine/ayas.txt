@@ -1,0 +1,9 @@
+create ayasfile
+append ayasfile My name is Ayas
+create fullname
+append fullname Furkan Ayas
+printdisk
+delete ayasfile
+printdisk
+delete fullname
+printdisk

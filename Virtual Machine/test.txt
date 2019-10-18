@@ -1,0 +1,4 @@
+delete aaa 2 2
+printdisk
+insert aaa 1 Welcome
+printdisk

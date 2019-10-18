@@ -1,0 +1,3 @@
+create file1
+append file1 Hello my name is oguz
+printdisk
